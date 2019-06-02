@@ -1,0 +1,13 @@
+
+esquid:S3358"DExtract this nested ternary operation into an independent statement.(çüÕûÿÿÿÿ8©ºÊ“±-
+Ssquid:S2629"7Use the built-in formatting to construct this argument.(æ“¢8©ºÊ“±-
+esquid:S3358"DExtract this nested ternary operation into an independent statement.(çüÕûÿÿÿÿ8©ºÊ“±-
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øëí»8©ºÊ“±-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‰¥Û8©ºÊ“±-
+Csquid:S1872"'Use an "instanceof" comparison instead.(´Ëš8©ºÊ“±-
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ĞƒÔ•8©ºÊ“±-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øëí»8©ºÊ“±-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(£éá¯şÿÿÿÿ8©ºÊ“±-
+‚squid:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ÈÜİü8©ºÊ“±-
+Xsquid:S2629"7Use the built-in formatting to construct this argument.(§Å»ÿÿÿÿÿ8©ºÊ“±-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŠïÉáüÿÿÿÿ8©ºÊ“±-

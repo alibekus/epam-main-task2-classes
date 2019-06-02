@@ -1,0 +1,8 @@
+
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(£ˆ™ïøÿÿÿÿ8µÀÊ“±-
+Xsquid:S2629"7Use the built-in formatting to construct this argument.(ú‘©Üûÿÿÿÿ8µÀÊ“±-
+nsquid:S1192"RDefine a constant instead of duplicating this literal "PassengerAirplane" 3 times.(çŸéÑ8µÀÊ“±-
+osquid:S1192"NDefine a constant instead of duplicating this literal "CargoAirplane" 3 times.(ºóÛ…şÿÿÿÿ8µÀÊ“±-
+Dsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8µÀÊ“±-
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(£ˆ™ïøÿÿÿÿ8µÀÊ“±-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ÖêÍøÿÿÿÿ8µÀÊ“±-
